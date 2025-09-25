@@ -1,0 +1,6 @@
+f=input('first_name: ')
+l=input('last_name: ')
+f=str(f)
+l=str(l)
+greeting=input('Hello, ' + (f + l) + '!' + " Welcome" + " to" + " the" + " python" + " program.")
+print("greeting: ",greeting)
