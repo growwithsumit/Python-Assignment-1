@@ -1,4 +1,4 @@
-# Python Fundamentals: Assignments Repository
+# Python Fundamentals 
 
 ## 📖 Overview
 
