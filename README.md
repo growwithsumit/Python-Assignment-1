@@ -32,7 +32,7 @@ This script functions as a simple command-line calculator, performing fundamenta
     Addition: 15
     division: 2.0
     ```
-    *(Based on your `Perform Basic Mathematical Operations.py` script)*
+    *(Based on the `Perform Basic Mathematical Operations.py` script)*
 
 ### 2. Personalized Greeting Generator (`Create a Personalized Greeting.py`)
 
@@ -54,6 +54,6 @@ This interactive script asks the user for their first and last name and then gen
     last_name: Kumar
     Hello, Sumitkumar! Welcome to the python program.
     ```
-    *(Based on your `Create a Personalized Greeting.py` script)*
+    *(Based on the `Create a Personalized Greeting.py` script)*
 
 ---
